@@ -1,4 +1,5 @@
-# LZRTag
+# [LZRTag](https://hackaday.io/project/160804-lzrtag-flexible-diy-lasertag)
+
 ### ESP32-Based Lasertag
 
 Ever wanted to set up your own system of Lasertag?
